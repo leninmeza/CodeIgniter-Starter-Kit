@@ -21,3 +21,6 @@ http://www.smarty.net/
 Twitter Boostrap
 Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 http://getbootstrap.com/
+
+CodeIgniter encryption key generator
+http://jeffreybarke.net/tools/codeigniter-encryption-key-generator/
